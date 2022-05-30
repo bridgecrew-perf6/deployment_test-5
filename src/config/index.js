@@ -6,7 +6,7 @@ const env = process.env.REACT_APP_ENV;
 //in react, environment variables start with REACT_APP_
 
 let config = {
-    baseURL = "https://localhost"
+    baseURL : "https://localhost",
 }
 
 switch (env.toUpperCast()){
