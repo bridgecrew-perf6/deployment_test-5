@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/farhansamsuri/deployment_test.git/static/css/main.073c9b0a.css",
+    "main.js": "/farhansamsuri/deployment_test.git/static/js/main.d169893a.js",
+    "static/js/787.0c3f432a.chunk.js": "/farhansamsuri/deployment_test.git/static/js/787.0c3f432a.chunk.js",
+    "static/media/logo.svg": "/farhansamsuri/deployment_test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/farhansamsuri/deployment_test.git/index.html",
+    "main.073c9b0a.css.map": "/farhansamsuri/deployment_test.git/static/css/main.073c9b0a.css.map",
+    "main.d169893a.js.map": "/farhansamsuri/deployment_test.git/static/js/main.d169893a.js.map",
+    "787.0c3f432a.chunk.js.map": "/farhansamsuri/deployment_test.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d169893a.js"
+  ]
+}
