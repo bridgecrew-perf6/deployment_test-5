@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://farhansamsuri.github.io/deployment-test",
+  "homepage": "https://farhansamsuri.github.io/deployment_test",
 
   "scripts": {
     "start": "react-scripts start",
